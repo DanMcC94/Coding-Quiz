@@ -1,1 +1,1 @@
-# Coding-Quiz
+I've scheduled a meeting with my tutor to go over this homework. I'm not sure on how to write code from scratch. I tried looking at the timer from the activity, but there was so many bells and whistles I couldn't make heads or tails of it. I'm going to go watch previous classes again to try and catch up. 
